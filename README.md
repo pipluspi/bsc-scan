@@ -15,4 +15,4 @@ Scrape token transaction using token url from bsc scan
                 server = <smtp.gmail.com:587 or server you have>
                 recevier_email = <xxxx@gmail.com>
 
-**Step 4 :** Change ' **env = 'DEVELOPMENT'** ' as per the section name you given in config file.
+**Step 4 :** Change ' **env = 'DEVELOPMENT'** ' in main.py as per the section name you given in config file.
